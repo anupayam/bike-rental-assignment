@@ -1,0 +1,50 @@
+
+.first{
+height:auto;
+width:auto;
+background:white;
+
+}
+#f1{
+position:center;
+}
+.second{
+height:auto;
+width:auto;
+
+
+}
+/* Style the header */
+.header {
+    background-color: #666;
+    color:white;
+	width:auto;
+	height:auto;
+}
+.ime{
+	background-size:4px,4px;
+	background-repeat:no repeat;
+	
+}
+.col-md-3{
+	padding:10px;
+}
+table{
+	width: 50%;
+}
+tr,td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+/* Style the footer */
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+
+
